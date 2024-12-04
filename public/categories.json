@@ -1,0 +1,128 @@
+{
+  "categories": [
+    {
+      "id": "CAT001",
+      "name": "Multi-category",
+      "brands": [
+        {
+          "brand_id": "dz001",
+          "isSaleOn": true
+        },
+        {
+          "brand_id": "aj005",
+          "isSaleOn": true
+        },
+        {
+          "brand_id": "ot007",
+          "isSaleOn": true
+        },
+        {
+          "brand_id": "bd011",
+          "isSaleOn": false
+        },
+        {
+          "brand_id": "ki016",
+          "isSaleOn": false
+        }
+      ]
+    },
+    {
+      "id": "CAT002",
+      "name": "Food Delivery",
+      "brands": [
+        {
+          "brand_id": "fc003",
+          "isSaleOn": true
+        },
+        {
+          "brand_id": "pb008",
+          "isSaleOn": true
+        }
+      ]
+    },
+    {
+      "id": "CAT003",
+      "name": "Grocery",
+      "brands": [
+        {
+          "brand_id": "ch004",
+          "isSaleOn": true
+        },
+        {
+          "brand_id": "kh012",
+          "isSaleOn": true
+        },
+        {
+          "brand_id": "me017",
+          "isSaleOn": true
+        },
+        {
+          "brand_id": "bm020",
+          "isSaleOn": true
+        }
+      ]
+    },
+    {
+      "id": "CAT004",
+      "name": "Electronics",
+      "brands": [
+        {
+          "brand_id": "pr006",
+          "isSaleOn": false
+        },
+        {
+          "brand_id": "gs013",
+          "isSaleOn": true
+        },
+        {
+          "brand_id": "rv019",
+          "isSaleOn": true
+        }
+      ]
+    },
+    {
+      "id": "CAT005",
+      "name": "Fashion",
+      "brands": [
+        {
+          "brand_id": "sw014",
+          "isSaleOn": true
+        },
+        {
+          "brand_id": "jb018",
+          "isSaleOn": true
+        }
+      ]
+    },
+    {
+      "id": "CAT006",
+      "name": "Books & Stationery",
+      "brands": [
+        {
+          "brand_id": "rb002",
+          "isSaleOn": false
+        }
+      ]
+    },
+    {
+      "id": "CAT007",
+      "name": "Beauty",
+      "brands": [
+        {
+          "brand_id": "sg010",
+          "isSaleOn": true
+        }
+      ]
+    },
+    {
+      "id": "CAT008",
+      "name": "Lifestyle",
+      "brands": [
+        {
+          "brand_id": "pr009",
+          "isSaleOn": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #ee4054;
+}
+.navbar-center.active {
+  color: white;
+}
+.navbar-end.active {
+  color: var(--primary-color);
+}
+
+.overlay:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+}
+.swiper-button-prev,
+.swiper-button-next {
+  background: var(--primary-color);
+  padding: 20px;
+  transition: background 0.5s;
+}
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  font-size: 25px !important;
+  color: #fff;
+}
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background: black;
+}
+.swiper-pagination-bullet-active {
+  background: var(--primary-color) !important;
+}
+.animate__animated.animate__bounce {
+  --animate-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+/* Login and Registration navbar */
+#auth-navbar.active {
+  color: var(--primary-color);
+}

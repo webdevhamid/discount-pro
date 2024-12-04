@@ -1,0 +1,46 @@
+{
+  "top_brands": [
+    {
+      "_id": "dz001",
+      "brand_name": "Daraz Bangladesh",
+      "brand_logo": "https://i.ibb.co.com/f17qyKr/daraz.png",
+      "shop_link": "https://www.daraz.com.bd",
+      "category": "Multi-category"
+    },
+    {
+      "_id": "rb002",
+      "brand_name": "Rokomari",
+      "brand_logo": "https://i.ibb.co.com/bPCnP9T/rokomari.png",
+      "shop_link": "https://www.rokomari.com",
+      "category": "Books & Stationery"
+    },
+    {
+      "_id": "pb008",
+      "brand_name": "Pathao Food",
+      "brand_logo": "https://i.ibb.co.com/Yjj2GCf/pathao.png",
+      "shop_link": "https://food.pathao.com",
+      "category": "Food Delivery"
+    },
+    {
+      "_id": "pr006",
+      "brand_name": "Pickaboo",
+      "brand_logo": "https://i.ibb.co.com/7VtntFB/Pickaboo.png",
+      "shop_link": "https://www.pickaboo.com",
+      "category": "Electronics"
+    },
+    {
+      "_id": "ch004",
+      "brand_name": "Chaldal",
+      "brand_logo": "https://i.ibb.co.com/9VXM9XH/chaldal.png",
+      "shop_link": "https://chaldal.com",
+      "category": "Grocery"
+    },
+    {
+      "_id": "pr009",
+      "brand_name": "Priyoshop",
+      "brand_logo": "https://i.ibb.co.com/4RHX89D/priyoshop.png",
+      "shop_link": "https://www.priyoshop.com",
+      "category": "Lifestyle"
+    }
+  ]
+}

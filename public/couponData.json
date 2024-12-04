@@ -1,0 +1,379 @@
+{
+  "coupons": [
+    {
+      "id": "dz001",
+      "brand_name": "Daraz Bangladesh",
+      "rating": 4.5,
+      "description": "Bangladesh's largest online shopping platform offering millions of products at competitive prices",
+      "brand_logo": "https://i.ibb.co.com/f17qyKr/daraz.png",
+      "shop_link": "https://www.daraz.com.bd",
+      "category": "Multi-category",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "DRZBD100",
+          "description": "৳100 off on minimum purchase of ৳1000",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid on all products except smartphones",
+          "coupon_type": "Fixed Amount"
+        },
+        {
+          "coupon_code": "NEWUSER25",
+          "description": "25% off for new users",
+          "expiry_date": "2024-12-31",
+          "condition": "Maximum discount ৳500",
+          "coupon_type": "Percentage"
+        }
+      ]
+    },
+    {
+      "id": "rb002",
+      "brand_name": "Rokomari",
+      "rating": 4.3,
+      "description": "Leading online bookstore in Bangladesh with extensive collection of books and stationery",
+      "brand_logo": "https://i.ibb.co.com/bPCnP9T/rokomari.png",
+      "shop_link": "https://www.rokomari.com",
+      "category": "Books & Stationery",
+      "isSaleOn": false,
+      "coupons": [
+        {
+          "coupon_code": "BOOK200",
+          "description": "৳200 off on books above ৳1000",
+          "expiry_date": "2024-12-15",
+          "condition": "Valid on books only",
+          "coupon_type": "Fixed Amount"
+        }
+      ]
+    },
+    {
+      "id": "fc003",
+      "brand_name": "Foodpanda",
+      "rating": 4.4,
+      "description": "Popular food delivery service covering restaurants across Bangladesh",
+      "brand_logo": "https://i.ibb.co.com/tM3vJ8j/foodpanda.png",
+      "shop_link": "https://www.foodpanda.com.bd",
+      "category": "Food Delivery",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "TASTY40",
+          "description": "40% off on your first order",
+          "expiry_date": "2024-12-31",
+          "condition": "Maximum discount ৳150",
+          "coupon_type": "Percentage"
+        }
+      ]
+    },
+    {
+      "id": "ch004",
+      "brand_name": "Chaldal",
+      "rating": 4.6,
+      "description": "Online grocery shop offering same-day delivery in major cities",
+      "brand_logo": "https://i.ibb.co.com/9VXM9XH/chaldal.png",
+      "shop_link": "https://chaldal.com",
+      "category": "Grocery",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "FRESH150",
+          "description": "৳150 off on fresh produce",
+          "expiry_date": "2024-12-10",
+          "condition": "Minimum order ৳1500",
+          "coupon_type": "Fixed Amount"
+        }
+      ]
+    },
+    {
+      "id": "aj005",
+      "brand_name": "Ajkerdeal",
+      "rating": 4.1,
+      "description": "Popular e-commerce platform for fashion and lifestyle products",
+      "brand_logo": "https://i.ibb.co.com/FmVyW9K/ajkeldeal.png",
+      "shop_link": "https://www.ajkerdeal.com",
+      "category": "Multi-category",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "DEAL30",
+          "description": "30% off on fashion items",
+          "expiry_date": "2024-12-20",
+          "condition": "Maximum discount ৳300",
+          "coupon_type": "Percentage"
+        }
+      ]
+    },
+    {
+      "id": "pr006",
+      "brand_name": "Pickaboo",
+      "rating": 4.2,
+      "description": "Trusted electronics and gadget store with genuine products",
+      "brand_logo": "https://i.ibb.co.com/7VtntFB/Pickaboo.png",
+      "shop_link": "https://www.pickaboo.com",
+      "category": "Electronics",
+      "isSaleOn": false,
+      "coupons": [
+        {
+          "coupon_code": "GADGET500",
+          "description": "৳500 off on smartphones",
+          "expiry_date": "2024-12-25",
+          "condition": "Valid on selected models",
+          "coupon_type": "Fixed Amount"
+        }
+      ]
+    },
+    {
+      "id": "ot007",
+      "brand_name": "Othoba",
+      "rating": 4.0,
+      "description": "Growing e-commerce platform with wide range of products",
+      "brand_logo": "https://i.ibb.co.com/58Q769R/othoba.jpg",
+      "shop_link": "https://www.othoba.com",
+      "category": "Multi-category",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "NEW20",
+          "description": "20% off for new customers",
+          "expiry_date": "2024-12-31",
+          "condition": "Maximum discount ৳400",
+          "coupon_type": "Percentage"
+        }
+      ]
+    },
+    {
+      "id": "pb008",
+      "brand_name": "Pathao Food",
+      "rating": 4.3,
+      "description": "Popular food delivery service with wide restaurant coverage",
+      "brand_logo": "https://i.ibb.co.com/Yjj2GCf/pathao.png",
+      "shop_link": "https://food.pathao.com",
+      "category": "Food Delivery",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "HUNGRY100",
+          "description": "৳100 off on your order",
+          "expiry_date": "2024-12-15",
+          "condition": "Minimum order ৳500",
+          "coupon_type": "Fixed Amount"
+        }
+      ]
+    },
+    {
+      "id": "pr009",
+      "brand_name": "Priyoshop",
+      "rating": 4.0,
+      "description": "E-commerce platform focusing on lifestyle products",
+      "brand_logo": "https://i.ibb.co.com/4RHX89D/priyoshop.png",
+      "shop_link": "https://www.priyoshop.com",
+      "category": "Lifestyle",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "LIFE25",
+          "description": "25% off on lifestyle products",
+          "expiry_date": "2024-12-31",
+          "condition": "Maximum discount ৳300",
+          "coupon_type": "Percentage"
+        }
+      ]
+    },
+    {
+      "id": "sg010",
+      "brand_name": "Shajgoj",
+      "rating": 4.4,
+      "description": "Leading beauty and personal care e-commerce platform",
+      "brand_logo": "https://i.ibb.co.com/Nx9qCm1/shajgoj.png",
+      "shop_link": "https://www.shajgoj.com",
+      "category": "Beauty",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "BEAUTY200",
+          "description": "৳200 off on beauty products",
+          "expiry_date": "2024-12-20",
+          "condition": "Minimum purchase ৳1000",
+          "coupon_type": "Fixed Amount"
+        }
+      ]
+    },
+    {
+      "id": "bd011",
+      "brand_name": "Bdshop",
+      "rating": 4.1,
+      "description": "Online shopping platform for various categories",
+      "brand_logo": "https://i.ibb.co.com/9WbnFcB/bdshop.png",
+      "shop_link": "https://www.bdshop.com",
+      "category": "Multi-category",
+      "isSaleOn": false,
+      "coupons": [
+        {
+          "coupon_code": "SAVE15",
+          "description": "15% off on all products",
+          "expiry_date": "2024-12-31",
+          "condition": "Maximum discount ৳500",
+          "coupon_type": "Percentage"
+        }
+      ]
+    },
+    {
+      "id": "kh012",
+      "brand_name": "Khaasfood",
+      "rating": 4.5,
+      "description": "Premium quality food products and groceries",
+      "brand_logo": "https://i.ibb.co.com/fvfRztT/khaasfood.png",
+      "shop_link": "https://www.khaasfood.com",
+      "category": "Grocery",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "ORGANIC10",
+          "description": "10% off on organic products",
+          "expiry_date": "2024-12-15",
+          "condition": "No minimum purchase required",
+          "coupon_type": "Percentage"
+        }
+      ]
+    },
+    {
+      "id": "gs013",
+      "brand_name": "Gadget & Gear",
+      "rating": 4.3,
+      "description": "Authorized retailer for genuine gadgets and accessories",
+      "brand_logo": "https://i.ibb.co.com/hX0tLy3/gadget-gear.webp",
+      "shop_link": "https://www.gadgetandgear.com",
+      "category": "Electronics",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "TECH1000",
+          "description": "৳1000 off on laptops",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid on selected models",
+          "coupon_type": "Fixed Amount"
+        }
+      ]
+    },
+    {
+      "id": "sw014",
+      "brand_name": "Swap",
+      "rating": 4.2,
+      "description": "Fashion forward clothing and accessories",
+      "brand_logo": "https://i.ibb.co.com/hWJ6Tyj/swap.jpg",
+      "shop_link": "https://www.swap.com.bd",
+      "category": "Fashion",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "STYLE35",
+          "description": "35% off on new arrivals",
+          "expiry_date": "2024-12-20",
+          "condition": "Maximum discount ৳500",
+          "coupon_type": "Percentage"
+        }
+      ]
+    },
+    {
+      "id": "ki016",
+      "brand_name": "Kikinben",
+      "rating": 4.0,
+      "description": "Online marketplace for various products",
+      "brand_logo": "https://i.ibb.co.com/bFRs422/kikinben.png",
+      "shop_link": "https://www.kikinben.com",
+      "category": "Multi-category",
+      "isSaleOn": false,
+      "coupons": [
+        {
+          "coupon_code": "WELCOME25",
+          "description": "25% off on first purchase",
+          "expiry_date": "2024-12-25",
+          "condition": "Maximum discount ৳300",
+          "coupon_type": "Percentage"
+        }
+      ]
+    },
+    {
+      "id": "me017",
+      "brand_name": "Meena Click",
+      "rating": 4.3,
+      "description": "Online grocery shop with quality products",
+      "brand_logo": "https://i.ibb.co.com/3YrxYkJ/main-logo.png",
+      "shop_link": "https://www.meenaclick.com",
+      "category": "Grocery",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "GROCERY200",
+          "description": "৳200 off on grocery items",
+          "expiry_date": "2024-12-15",
+          "condition": "Minimum purchase ৳2000",
+          "coupon_type": "Fixed Amount"
+        }
+      ]
+    },
+    {
+      "id": "jb018",
+      "brand_name": "Jadroo Bangladesh",
+      "rating": 4.1,
+      "description": "Fashion and lifestyle products marketplace",
+      "brand_logo": "https://i.ibb.co.com/859J5Yb/jadroo.png",
+      "shop_link": "https://www.jadroo.com",
+      "category": "Fashion",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "FASHION40",
+          "description": "40% off on selected items",
+          "expiry_date": "2024-12-31",
+          "condition": "Maximum discount ৳400",
+          "coupon_type": "Percentage"
+        }
+      ]
+    },
+    {
+      "id": "rv019",
+      "brand_name": "Ryans Computers",
+      "rating": 4.5,
+      "description": "Leading computer and tech accessories retailer",
+      "brand_logo": "https://i.ibb.co.com/25QsLXN/ryans.png",
+      "shop_link": "https://www.ryanscomputers.com",
+      "category": "Electronics",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "PCPARTS500",
+          "description": "৳500 off on PC components",
+          "expiry_date": "2024-12-20",
+          "condition": "Valid on selected items",
+          "coupon_type": "Fixed Amount"
+        }
+      ]
+    },
+    {
+      "id": "bm020",
+      "brand_name": "Bengal Meat",
+      "rating": 4.4,
+      "description": "Premium quality meat and protein products",
+      "brand_logo": "https://i.ibb.co.com/wSYcrJg/bengal-meat.png",
+      "shop_link": "https://www.bengalmeat.com",
+      "category": "Grocery",
+      "isSaleOn": true,
+      "coupons": [
+        {
+          "coupon_code": "FRESH250",
+          "description": "৳250 off on fresh meat products",
+          "expiry_date": "2024-12-31",
+          "condition": "Minimum order ৳2000",
+          "coupon_type": "Fixed Amount"
+        },
+        {
+          "coupon_code": "PROTEIN20",
+          "description": "20% off on protein products",
+          "expiry_date": "2024-12-25",
+          "condition": "Maximum discount ৳400",
+          "coupon_type": "Percentage"
+        }
+      ]
+    }
+  ]
+}
